@@ -18,7 +18,7 @@ pip install -r requirements.txt
 4. Obtain an API Key:
 - Visit the OpenWeatherMap website.
 - Sign up for an account and obtain an API key.
-- Create a .env file in the project directory and add your API key like this:
+- Create a .env file in the project directory and add your API key.
 
 5. Run the Application:
 The application should now be accessible at http://localhost:8080 in your web browser.
