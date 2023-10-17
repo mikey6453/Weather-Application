@@ -56,3 +56,6 @@ Python-dotenv
 This project uses the OpenWeatherMap API to provide weather information.
 Styling is achieved using Bootstrap.
 Feel free to customize and enhance this Weather Application as needed for your specific use case or integrate it into other projects.
+
+# Author
+Michael Park
